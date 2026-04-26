@@ -43,7 +43,16 @@
     "WardenMixin",
     "WaterConversionMixin",
     "WitherBossMixin",
-    "ZombieVillagerMixin"
+    "ZombieVillagerMixin",
+    "MixinPanda",
+    "MixinEnderManStayNoTeleport",
+    "MixinShulkerStayNoTeleport",
+    "MixinWanderingTrader",
+    "MixinCreeperRespawn",
+    "MixinWitherBossControlled",
+    "PetConnectEventHandlerMixin",
+    "MixinMonsterDespawn",
+    "MixinMobDespawn"
   ],
   "client": [
   ],
